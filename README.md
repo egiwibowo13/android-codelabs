@@ -2,6 +2,8 @@ Android Sunflower (alpha)
 =========================
 [![CircleCI](https://circleci.com/gh/android/sunflower/tree/master.svg?style=shield)](https://circleci.com/gh/android/sunflower/tree/master)
 
+Clone from https://github.com/android/sunflower.git
+
 A gardening app illustrating Android development best practices with Android Jetpack.
 
 Android Sunflower is currently under heavy development.
